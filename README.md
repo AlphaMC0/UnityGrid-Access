@@ -15,8 +15,8 @@
 - A simple popular minigame played all around the world.
 - The game is played with 2 players entering the coordinates of the square they want to put their symbol.
   **Board**
-  - - -
+  **- - -**
 
-  - - -
+  **- - -**
 
-  - - -
+  **- - -**
