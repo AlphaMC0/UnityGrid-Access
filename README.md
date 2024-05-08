@@ -16,6 +16,7 @@
 **Tic Tac Toe**
 - A simple popular minigame played all around the world.
 - The game is played with 2 players entering the coordinates of the square they want to put their symbol.
+
   **Board**
   
   **- - -**
@@ -27,12 +28,14 @@
 - The system chooses at random who the first player is, so X may not always be the first player.
 - To put your symbol in the board you have to in put the coordinates in the format "Row Column" **EX : 1 1**
 - Inputing that coordinate will output this if your player X.
+  
   **X - -**
 
   **- - -**
 
   **- - -**
 - The game ends either when the board is filled or one player wins.
+  
   **Board Filled**
 
   **X X O**
@@ -48,7 +51,6 @@
   **O O -**
 
   **- - -**
-- If a player inputs a invalid value there will be an error.
 
 **EnigmaDigits**
 - A number guessing game made fun.
@@ -62,4 +64,23 @@
 
   **Your guess :**
 
+- If an invalid value is inputed the game will display.
+
+  **Invalid input. Please enter a valid number.**
+
+- If you run out of guesses it will display.
+
+  **Sorry, you've reached the maximum number of attempts. The secret number was 93.**
+
+- If the correct number was guessed in the given amount of guesses it will display.
+
+  **Congratulations! You guessed the number 96 in 8 attempts**
+  
 **Guardians of the Meridiann**
+- A Fantasy Isekai Reincarnation game.
+- You begin the game as a soul that the god of resurrection accidentally killed.
+- You will have to make choices to kill the Wither King to save that world as its Hero.
+- There are 2 types of characters : Celestior the Starweaver a mage, and Bladebound Sentinel a swordsman.
+- Each character will have a ultimate weapon and their specific set of skills.
+- The player will have to defeat the Wither King to win the game and failing to defeat the Wither King will result in the Death of the player and the world and also means the player
+  loses.
