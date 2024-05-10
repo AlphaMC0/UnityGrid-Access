@@ -82,5 +82,7 @@
 - You will have to make choices to kill the Wither King to save that world as its Hero.
 - There are 2 types of characters : Celestior the Starweaver a mage, and Bladebound Sentinel a swordsman.
 - Each character will have a ultimate weapon and their specific set of skills.
-- The player will have to defeat the Wither King to win the game and failing to defeat the Wither King will result in the Death of the player and the world and also means the player
+- To reach the **NECRON The WITHER KING** the player will have to solve a riddle and the difficulty of the riddle will depend on the characters ther player chooses.
+- The player will have to defeat the **NECRON The WITHER KING** to win the game and failing to defeat the **Wither King** will result in the death of the player and the world and also means the player
   loses.
+
