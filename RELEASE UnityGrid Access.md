@@ -13,7 +13,7 @@
 - UnityGrid Access has 3 different games
   #### [Tic Tac Toe](https://github.com/AlphaMC0/UnityGrid-Access/blob/main/Tic%20Tac%20Toe.md)
   #### [EnigmaDigits](https://github.com/AlphaMC0/UnityGrid-Access/blob/main/EnigmaDigits.md)
-  #### [Guardians of the Meridiaan](https://github.com/AlphaMC0/UnityGrid-Access/blob/main/Guardians%20of%20the%20Meridiaan.md)
+  #### [Guardians of the Meridiaan](https://github.com/AlphaMC0/UnityGrid-Access/blob/main/Source%20Code)
 
 # Access to UnityGrid Access
 
