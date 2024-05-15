@@ -18,44 +18,7 @@
 
 - All games able to be access from the Main Menu.
 
-**Tic Tac Toe**
-- A simple popular minigame played all around the world.
-- The game is played with 2 players entering the coordinates of the square they want to put their symbol.
 
-  **Board**
-  
-  **- - -**
-
-  **- - -**
-
-  **- - -**
-
-- The system chooses at random who the first player is, so X may not always be the first player.
-- To put your symbol in the board you have to in put the coordinates in the format "Row Column" **EX : 1 1**
-- Inputing that coordinate will output this if your player X.
-  
-  **X - -**
-
-  **- - -**
-
-  **- - -**
-- The game ends either when the board is filled or one player wins.
-  
-  **Board Filled**
-
-  **X X O**
-
-  **O X O**
-
-  **X O X**
-
-  **Player X Wins**
-
-  **X X X**
-
-  **O O -**
-
-  **- - -**
 
 **EnigmaDigits**
 - A number guessing game made fun.
