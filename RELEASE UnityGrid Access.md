@@ -12,7 +12,7 @@
 
 **Games** 
 - UnityGrid Access has 3 different games
-  #### [Tic Tac Toe](s://github.com/AlphaMC0/UnityGrid-Access/blob/main/Tic%20Tac%20Toe.md)
+#### [Tic Tac Toe](s://github.com/AlphaMC0/UnityGrid-Access/blob/main/Tic%20Tac%20Toe.md)
   - EnigmaDigits
   - Guardians of the Meridiaan
 
