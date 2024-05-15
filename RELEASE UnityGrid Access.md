@@ -2,11 +2,12 @@
 
 **Version 1.0**
 
-- A app developed by **AMC** , **Ly Ving** , and **Beans**.
-- Play games with a succure login system for your protection.
-- Access multiple games from the same app!
-- Simple fun to play games.
+- Developed by **AMC** , **Ly Ving** , and **Beans**. **UnityGrid Access** is a free to play app that hosts 3 different games
+- **UntiyGrid Access** a app that hosts free to play simple minigames for all ages to enjoy.
+- Come join us!
 
+**Login System**
+- Play games with peace of mind knowing you are protected by a secure login system.
 
 **Games** 
 - UnityGrid Access has 3 different games
