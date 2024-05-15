@@ -2,6 +2,11 @@
 
 **Version 1.0**
 
+- A app developed by **AMC** , **Ly Ving** , and **Beans**.
+- Play games with a succure login system for your protection.
+- Access multiple games from the same app!
+- Simple fun to play games.
+
 **Login System**
 - UnityGrid Access has a secure login system, able to host many different users.
 
