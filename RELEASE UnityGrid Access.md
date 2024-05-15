@@ -8,20 +8,12 @@
 
 **Login System**
 - Play games with peace of mind knowing you are protected by a secure login system.
-
+  #### [Login System](https://github.com/AlphaMC0/UnityGrid-Access/blob/main/Login%20System.md)
 **Games** 
 - UnityGrid Access has 3 different games
   #### [Tic Tac Toe](https://github.com/AlphaMC0/UnityGrid-Access/blob/main/Tic%20Tac%20Toe.md)
   #### [EnigmaDigits](https://github.com/AlphaMC0/UnityGrid-Access/blob/main/EnigmaDigits.md)
   #### [Guardians of the Meridiaan](https://github.com/AlphaMC0/UnityGrid-Access/blob/main/Guardians%20of%20the%20Meridiaan.md)
-
-
-
-
-
-  
-
-
 
 # Access to UnityGrid Access
 
