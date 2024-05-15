@@ -7,16 +7,13 @@
 - Access multiple games from the same app!
 - Simple fun to play games.
 
-**Login System**
-- UnityGrid Access has a secure login system, able to host many different users.
 
 **Games** 
 - UnityGrid Access has 3 different games
   #### [Tic Tac Toe](https://github.com/AlphaMC0/UnityGrid-Access/blob/main/Tic%20Tac%20Toe.md)
   #### [EnigmaDigits](https://github.com/AlphaMC0/UnityGrid-Access/blob/main/EnigmaDigits.md)
-  - Guardians of the Meridiaan
+  #### [Guardians of the Meridiaan](https://github.com/AlphaMC0/UnityGrid-Access/blob/main/Guardians%20of%20the%20Meridiaan.md)
 
-- All games able to be access from the Main Menu.
 
 
 
