@@ -6,7 +6,7 @@
 - Now Copy the [**SOURCE CODE**](https://github.com/AlphaMC0/Virtual-Vanguard-Studios/blob/main/Source%20Code) and paste it into the file you just created.
 - **IMPORTANT** : **SAVE THE CODE**
 - Next make a new file and name it **database.txt** add usernames and passwords as you wish but, the limit is 5.
-  #### [database.txt](https://github.com/AlphaMC0/Virtual-Vanguard-Studios/blob/main/database.txt)
+  #### [**database.txt**](https://github.com/AlphaMC0/Virtual-Vanguard-Studios/blob/main/database.txt)
 - **IMPORTANT** : **SAVE THE DATABASE**
 - Now **RUN** the **SOURCE CODE** using the run button by clicking the **FILE** button and **RUN** button or **(fn + f5)**
 - Enjoy!
